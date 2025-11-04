@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/MLIP/mlruns/336276403427681617
+creation_time: 1762259694446
+experiment_id: '336276403427681617'
+last_update_time: 1762259694446
+lifecycle_stage: active
+name: wine-quality

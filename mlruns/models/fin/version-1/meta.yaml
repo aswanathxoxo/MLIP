@@ -1,0 +1,15 @@
+creation_timestamp: 1762260043947
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1762260043947
+model_id: m-9f182e5ad3a541c190d41a3e6b32ed8c
+name: fin
+run_id: faeee3efe8b14895b2b0effbd89026af
+run_link: ''
+source: file:///workspaces/MLIP/mlruns/336276403427681617/models/m-9f182e5ad3a541c190d41a3e6b32ed8c/artifacts
+status: READY
+status_message: null
+storage_location: file:///workspaces/MLIP/mlruns/336276403427681617/models/m-9f182e5ad3a541c190d41a3e6b32ed8c/artifacts
+user_id: null
+version: 1

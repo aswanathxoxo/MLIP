@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/MLIP/mlruns/336276403427681617/16a5f18c8a13418da4944b06b0a4dd8c/artifacts
+end_time: 1762259721327
+entry_point_name: ''
+experiment_id: '336276403427681617'
+lifecycle_stage: active
+run_id: 16a5f18c8a13418da4944b06b0a4dd8c
+run_name: bemused-perch-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762259715643
+status: 3
+tags: []
+user_id: codespace

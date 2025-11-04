@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/MLIP/mlruns/336276403427681617/models/m-b4c8f143c0934a2c96e157276fac164b/artifacts
+creation_timestamp: 1762259716610
+experiment_id: '336276403427681617'
+last_updated_timestamp: 1762259721326
+model_id: m-b4c8f143c0934a2c96e157276fac164b
+model_type: null
+name: model
+source_run_id: 16a5f18c8a13418da4944b06b0a4dd8c
+status: 2
+status_message: null

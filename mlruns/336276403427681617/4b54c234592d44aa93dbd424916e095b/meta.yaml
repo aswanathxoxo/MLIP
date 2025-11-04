@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/MLIP/mlruns/336276403427681617/4b54c234592d44aa93dbd424916e095b/artifacts
+end_time: 1762259709633
+entry_point_name: ''
+experiment_id: '336276403427681617'
+lifecycle_stage: active
+run_id: 4b54c234592d44aa93dbd424916e095b
+run_name: nimble-carp-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762259703357
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/MLIP/mlruns/336276403427681617/faeee3efe8b14895b2b0effbd89026af/artifacts
+end_time: 1762259726205
+entry_point_name: ''
+experiment_id: '336276403427681617'
+lifecycle_stage: active
+run_id: faeee3efe8b14895b2b0effbd89026af
+run_name: inquisitive-foal-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762259694538
+status: 3
+tags: []
+user_id: codespace

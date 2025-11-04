@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/MLIP/mlruns/336276403427681617/fef14dbf68cd4680ade46ff91e3d61be/artifacts
+end_time: 1762259703337
+entry_point_name: ''
+experiment_id: '336276403427681617'
+lifecycle_stage: active
+run_id: fef14dbf68cd4680ade46ff91e3d61be
+run_name: placid-mole-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762259694652
+status: 3
+tags: []
+user_id: codespace
